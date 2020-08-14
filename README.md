@@ -1,2 +1,3 @@
-# ecommerce-template-master
-HTML5, CSS3, Bootstrap framework.
+**E-Commerce Template**
+
+This is a simple and easy to integrate e-commerce design template based on Bootstrap 4.
